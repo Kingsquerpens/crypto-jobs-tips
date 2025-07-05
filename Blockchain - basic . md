@@ -1,0 +1,41 @@
+# Dasar-Dasar Blockchain
+
+Blockchain adalah teknologi yang memungkinkan data tersimpan dalam jaringan komputer yang terdesentralisasi, aman, transparan, dan tidak bisa diubah.
+
+## 🔑 Apa Itu Blockchain?
+Blockchain adalah **rantai blok** berisi data transaksi yang saling terhubung dan diamankan menggunakan kriptografi. Setiap blok menyimpan:
+- Data transaksi
+- Hash unik
+- Hash blok sebelumnya
+
+## ⚙️ Cara Kerja Blockchain:
+1. Transaksi dibuat dan disiarkan ke jaringan.
+2. Jaringan komputer (node) memverifikasi transaksi.
+3. Transaksi yang valid dikumpulkan dalam blok.
+4. Blok baru ditambahkan ke rantai (blockchain).
+
+## 📝 Kelebihan Blockchain:
+- 🔐 **Aman & Transparan**
+- 💡 **Desentralisasi** (Tidak dikontrol satu pihak)
+- 💾 **Data Tidak Bisa Dihapus**
+- 🌍 **Global & Borderless**
+
+## 🌟 Contoh Penggunaan Blockchain:
+- **Bitcoin & Cryptocurrency**
+- **NFT (Non-Fungible Token)**
+- **DeFi (Decentralized Finance)**
+- **Supply Chain Management**
+- **Voting Digital**
+
+---
+
+✨ **Ikuti Saya untuk Tips Blockchain & Web3 Terbaru:**
+- TikTok: [@jobsweb3](https://tiktok.com/@jobsweb3)
+- Instagram: [@web3kingsquerpens](https://instagram.com/web3kingsquerpens)
+- Twitter: [@raja_querpens](https://twitter.com/raja_querpens)
+
+---
+
+🚀 Dibuat dengan ❤️ oleh Kingsquerpens
+
+
